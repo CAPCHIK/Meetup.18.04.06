@@ -1,0 +1,6 @@
+Start work
+do new work
+need array:
+5
+2
+5.6
